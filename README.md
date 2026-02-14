@@ -34,6 +34,36 @@ Um pipeline é uma sequência automatizada de processos onde a saída de um est�
 - Organiza saída em diretório separado
 - Mantém estrutura original
 
+## Estrutura de Dados
+
+### 📁 `test_data/` - Dados Sintéticos (Commitados)
+Contém **55+ arquivos FASTA** para testar o pipeline:
+- ✅ **Commitados no GitHub**
+- 🧹 **Arquivos limpos** (válidos, prontos para processamento)
+- 🧹 **Arquivos sujos** (com contaminação 5-30% para testar limpeza)
+- 📊 **Variação de tamanhos** (curtas <50bp, longas >1000bp)
+- 🧪 **Stress tests** (100 sequências, GC extremos)
+
+**Regenerar:**
+```bash
+python generate_test_data.py
+```
+
+### 📁 `data/` - Dados Reais (Gitignored)
+Para dados crus de sequenciamento:
+- 🚫 **Ignorado pelo Git**
+- 🧬 **Dados brutos** do sequenciador
+- 📦 **Arquivos grandes** permitidos
+
+**Fontes recomendadas:**
+- **NCBI SRA** - Dados de sequenciamento públicos
+- **Sequenciamento próprio** - Seu output de máquina
+- **Bases de dados** - GenBank, RefSeq
+
+**Formatos suportados:**
+- **Nucleotide FASTA** (.fasta, .fa, .fna) ← Principal
+- **FASTQ** - Com qualidade (futuro)
+
 ## Instalação
 
 ### Pré-requisitos
