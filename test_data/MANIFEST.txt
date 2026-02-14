@@ -1,0 +1,122 @@
+======================================================================
+FastaFlow - Dados de Teste Sintéticos
+======================================================================
+
+Gerado em: 2026-02-14 17:32:00
+Total de datasets: 55
+
+ATENÇÃO: Estes são dados FABRICADOS para teste.
+Alguns contêm erros propositais para testar limpeza.
+
+Lista de arquivos:
+----------------------------------------------------------------------
+fastaflow_test_01_clean.fasta - Clean file, 2 sequences
+  2 seqs, 390 total bp
+fastaflow_test_02_clean.fasta - Clean file, 3 sequences
+  3 seqs, 873 total bp
+fastaflow_test_03_clean.fasta - Clean file, 5 sequences
+  5 seqs, 986 total bp
+fastaflow_test_04_clean.fasta - Clean file, 2 sequences
+  2 seqs, 677 total bp
+fastaflow_test_05_clean.fasta - Clean file, 3 sequences
+  3 seqs, 1180 total bp
+fastaflow_test_06_clean.fasta - Clean file, 4 sequences
+  4 seqs, 1359 total bp
+fastaflow_test_07_clean.fasta - Clean file, 3 sequences
+  3 seqs, 807 total bp
+fastaflow_test_08_clean.fasta - Clean file, 5 sequences
+  5 seqs, 1688 total bp
+fastaflow_test_09_clean.fasta - Clean file, 3 sequences
+  3 seqs, 738 total bp
+fastaflow_test_10_clean.fasta - Clean file, 4 sequences
+  4 seqs, 1305 total bp
+fastaflow_test_11_lightly_dirty.fasta - 5-10% contamination, 1 seqs
+  1 seqs, 391 total bp
+fastaflow_test_12_lightly_dirty.fasta - 5-10% contamination, 2 seqs
+  2 seqs, 726 total bp
+fastaflow_test_13_lightly_dirty.fasta - 5-10% contamination, 4 seqs
+  4 seqs, 642 total bp
+fastaflow_test_14_lightly_dirty.fasta - 5-10% contamination, 1 seqs
+  1 seqs, 383 total bp
+fastaflow_test_15_lightly_dirty.fasta - 5-10% contamination, 2 seqs
+  2 seqs, 594 total bp
+fastaflow_test_16_lightly_dirty.fasta - 5-10% contamination, 4 seqs
+  4 seqs, 1412 total bp
+fastaflow_test_17_lightly_dirty.fasta - 5-10% contamination, 3 seqs
+  3 seqs, 1382 total bp
+fastaflow_test_18_lightly_dirty.fasta - 5-10% contamination, 1 seqs
+  1 seqs, 386 total bp
+fastaflow_test_19_lightly_dirty.fasta - 5-10% contamination, 2 seqs
+  2 seqs, 298 total bp
+fastaflow_test_20_lightly_dirty.fasta - 5-10% contamination, 1 seqs
+  1 seqs, 486 total bp
+fastaflow_test_21_heavily_dirty.fasta - 20-30% contamination
+  3 seqs, 619 total bp
+fastaflow_test_22_heavily_dirty.fasta - 20-30% contamination
+  3 seqs, 483 total bp
+fastaflow_test_23_heavily_dirty.fasta - 20-30% contamination
+  1 seqs, 107 total bp
+fastaflow_test_24_heavily_dirty.fasta - 20-30% contamination
+  2 seqs, 277 total bp
+fastaflow_test_25_heavily_dirty.fasta - 20-30% contamination
+  2 seqs, 444 total bp
+fastaflow_test_26_many_sequences.fasta - 22 sequences
+  22 seqs, 2869 total bp
+fastaflow_test_27_many_sequences.fasta - 31 sequences
+  31 seqs, 4194 total bp
+fastaflow_test_28_many_sequences.fasta - 43 sequences
+  43 seqs, 5189 total bp
+fastaflow_test_29_many_sequences.fasta - 41 sequences
+  41 seqs, 5076 total bp
+fastaflow_test_30_many_sequences.fasta - 45 sequences
+  45 seqs, 5640 total bp
+fastaflow_test_31_long_sequences.fasta - 3 long seqs (2214bp)
+  3 seqs, 8968 total bp
+fastaflow_test_32_long_sequences.fasta - 1 long seqs (2492bp)
+  1 seqs, 2492 total bp
+fastaflow_test_33_long_sequences.fasta - 3 long seqs (4545bp)
+  3 seqs, 10721 total bp
+fastaflow_test_34_long_sequences.fasta - 1 long seqs (4765bp)
+  1 seqs, 4765 total bp
+fastaflow_test_35_long_sequences.fasta - 3 long seqs (3549bp)
+  3 seqs, 9780 total bp
+fastaflow_test_36_short_sequences.fasta - 6 short seqs
+  6 seqs, 174 total bp
+fastaflow_test_37_short_sequences.fasta - 11 short seqs
+  11 seqs, 375 total bp
+fastaflow_test_38_short_sequences.fasta - 9 short seqs
+  9 seqs, 277 total bp
+fastaflow_test_39_short_sequences.fasta - 12 short seqs
+  12 seqs, 448 total bp
+fastaflow_test_40_short_sequences.fasta - 13 short seqs
+  13 seqs, 415 total bp
+fastaflow_test_41_gc_variation.fasta - GC variation 20-80%
+  5 seqs, 964 total bp
+fastaflow_test_42_gc_variation.fasta - GC variation 20-80%
+  5 seqs, 1028 total bp
+fastaflow_test_43_gc_variation.fasta - GC variation 20-80%
+  5 seqs, 828 total bp
+fastaflow_test_44_gc_variation.fasta - GC variation 20-80%
+  5 seqs, 969 total bp
+fastaflow_test_45_gc_variation.fasta - GC variation 20-80%
+  5 seqs, 1049 total bp
+fastaflow_test_46_sequencer_output.fasta - Simulated sequencer output
+  5 seqs, 1534 total bp
+fastaflow_test_47_sequencer_output.fasta - Simulated sequencer output
+  7 seqs, 1770 total bp
+fastaflow_test_48_sequencer_output.fasta - Simulated sequencer output
+  6 seqs, 1610 total bp
+fastaflow_test_49_sequencer_output.fasta - Simulated sequencer output
+  8 seqs, 2128 total bp
+fastaflow_test_50_sequencer_output.fasta - Simulated sequencer output
+  5 seqs, 1120 total bp
+fastaflow_test_51_minimal.fasta - Minimal file (30bp)
+  1 seqs, 30 total bp
+fastaflow_test_52_massive.fasta - 100 sequences (stress test)
+  100 seqs, 6283 total bp
+fastaflow_test_53_long_headers.fasta - Long FASTA headers
+  3 seqs, 600 total bp
+fastaflow_test_54_special_headers.fasta - Special chars in headers
+  3 seqs, 450 total bp
+fastaflow_test_55_mixed.fasta - Mixed scenarios
+  5 seqs, 1310 total bp
