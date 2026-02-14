@@ -1,0 +1,4 @@
+>seq_clean
+ATGCATGCATGCATGC
+>seq_invalid
+ATGCATGCATGC123ATGC
